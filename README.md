@@ -1,5 +1,7 @@
 # Kaggle-Time-Series-Course
 
+Based on 5 hour [Kaggle Time Series Course](https://www.kaggle.com/learn/time-series/)
+
 | File | Topics |
 | ------------- | --:|
 | [exercise-forecasting-with-machine-learning.ipynb](https://github.com/frankwillard/Kaggle-Time-Series-Course/blob/main/exercise-forecasting-with-machine-learning.ipynb)  | Create multistep dataset, apply DirRec strategy with XGBoost for multistep forecasting |
